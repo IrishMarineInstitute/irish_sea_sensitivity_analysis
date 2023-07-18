@@ -78,7 +78,7 @@ These datasets are not publicly available due to restrictions.
 * National Biodiversity Data Centre Seasearch: https://maps.biodiversityireland.ie/Dataset/158
 
 ## University College Cork
-* Barrel Jellyfish Aerial Surveys: This data was provided by Tom Doyle and if you would like to use it in a study please contact Tom to let him know.
+* Barrel Jellyfish Aerial Surveys: This data was provided by Dr Tom Doyle, UCC and if you would like to use it in a study please contact Tom to let him know.
 
 
 
